@@ -10,11 +10,11 @@ namespace CalculatorLib
     {
 		public double Add(double n1, double n2)
 		{
-			return n1 + n2;
+			return n1 + n2 + 1;
 		}
 		public double Subtract(double n1, double n2)
 		{
-			return n1 - n2;
+			return n1 - n2 - 1;
 		}
 		public double Multiply(double n1, double n2)
 		{
